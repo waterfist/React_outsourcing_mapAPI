@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# WhatNyang(Front-End)
+## 🌼 팀 소개
+- 팀명 : 팔팔하조 8조
+- 팀원 : Front-end 5인 / 정진수(팀장), 김채하, 박유진, 변시윤, 임홍구
+- 프로젝트명 : WHATNYANG (왔냥)
+- 프로젝트 목적 : WhatNyang은 지도 서비스를 지원하는 웹사이트입니다. 로그인/ 회원가입 후 북마크 등록과 리뷰를 쓸 수 있습니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🏠[HomePage](https://88project-three.vercel.app/)
 
-## Available Scripts
+🔗[NOTION](https://www.notion.so/Team-A-8-_-10ae2fed265e455f88c4466b92b752f8)
 
-In the project directory, you can run:
+📐[Figma](https://www.figma.com/file/hbfqdgWQE2YmMnK691Cxua/8%EC%A1%B0%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1&t=3M9S14N8T1t4FLQf-0)
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Slide3](https://user-images.githubusercontent.com/117061219/215773737-b8abe183-50e4-46b6-bae7-994aa127cc50.jpeg)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
+<br>
 
-### `yarn test`
+***
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📆 개발 기간
+23.01.20. ~ 23.01.30. (1 week)
+<br>
+<br>
 
-### `yarn build`
+## 🛠 사용 기술 및 라이브러리
+- yarn
+- React
+- eslint
+- prettier
+- Styled-component
+- React-Query
+- Axios
+- Firebase
+- TypeScript
+<br>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌈 주요기능
+- 홈페이지 : 로그인/ 회원가입 페이지로 이동함.
+- 로그인/회원가입 : 정규식을 이용하여 제한을 둠. 아이디/비번/닉네임 기입
+- 메인페이지 : 지도, 업체 목록, 북마크
+- 상세페이지 : 업체 정보, 리뷰
+- 마이페이지 : 북마크, 리뷰, 프로필
+<br>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖼 주요 페이지
+홈페이지 | 로그인 | 회원가입
+----|----|----|
+![Home](https://user-images.githubusercontent.com/117061219/215780095-ed23dab2-29bf-4ce3-b27c-a1ec0cd37d33.png)|![로그인](https://user-images.githubusercontent.com/117061219/215780121-d00c9e6e-ee84-41ee-a863-691f34d475fb.png)|![회원가입](https://user-images.githubusercontent.com/117061219/215780144-a513f560-d307-4144-8194-3dcc1c77771c.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+메인페이지 | 상세페이지 | 마이페이지
+----|----|----|
+![메인페이지 - 검색결과](https://user-images.githubusercontent.com/117061219/215780805-47f695c4-e9c7-4ffa-892a-dc33f8e9591c.png)|![상세페이지](https://user-images.githubusercontent.com/117061219/215780853-4643c22e-3100-4705-b8da-48ca518bdb5a.png)|![마이페이지 - 북마크](https://user-images.githubusercontent.com/117061219/215780903-b95dfe51-e22f-4603-a5ef-c6b4b9859a47.png)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

@@ -1,16 +1,10 @@
 # WhatNyang(Front-End)
+🏠[HomePage](https://88project-three.vercel.app/)🔗[NOTION](https://www.notion.so/Team-A-8-_-10ae2fed265e455f88c4466b92b752f8)📐[Figma](https://www.figma.com/file/hbfqdgWQE2YmMnK691Cxua/8%EC%A1%B0%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1&t=3M9S14N8T1t4FLQf-0)
 ## 🌼 팀 소개
 - 팀명 : 팔팔하조 8조
 - 팀원 : Front-end 5인 / 정진수(팀장), 김채하, 박유진, 변시윤, 임홍구
 - 프로젝트명 : WHATNYANG (왔냥)
 - 프로젝트 목적 : WhatNyang은 지도 서비스를 지원하는 웹사이트입니다. 로그인/ 회원가입 후 북마크 등록과 리뷰를 쓸 수 있습니다.
-
-🏠[HomePage](https://88project-three.vercel.app/)
-
-🔗[NOTION](https://www.notion.so/Team-A-8-_-10ae2fed265e455f88c4466b92b752f8)
-
-📐[Figma](https://www.figma.com/file/hbfqdgWQE2YmMnK691Cxua/8%EC%A1%B0%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1&t=3M9S14N8T1t4FLQf-0)
-
 <br>
 
 ![Slide3](https://user-images.githubusercontent.com/117061219/215773737-b8abe183-50e4-46b6-bae7-994aa127cc50.jpeg)
